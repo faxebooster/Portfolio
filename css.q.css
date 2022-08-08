@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+div {
+	background-color: lightgrey;
+	width: 300px;
+	border: 15px solid #5D9AB3;
+	padding: 50px;
+	margin: 20px;
+}
+body {
+  background-color: rgb(205, 204, 209, 0.5);
+}
+
+
+head {
+	
+}
